@@ -1,5 +1,7 @@
 # alp-config [![NPM version][npm-image]][npm-url]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/alpjs/alp-config.svg)](https://greenkeeper.io/)
+
 config in alp framework
 
 [![Dependency ci Status][dependencyci-image]][dependencyci-url]
